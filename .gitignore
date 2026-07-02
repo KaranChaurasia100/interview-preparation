@@ -5,6 +5,15 @@
 .idea/
 *.iml
 
-# Build
+# Maven
 target/
-out/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
